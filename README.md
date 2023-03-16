@@ -6,7 +6,7 @@ This is a simple Python program that allows the user to play a guessing game. Th
 
 To run the program, make sure you have Python 3 installed on your computer. You can download Python 3 [here](https://www.python.org/downloads/).
 
-1. Clone this repository to your local machine using the command `git clone https://github.com/your-username/guess-the-number.git`.
+1. Clone this repository to your local machine using the command `git clone https://github.com/TiredBarnOwl/guess-the-number.git`.
 2. Navigate to the project directory using the command `cd guess-the-number`.
 3. Run the program by typing `python guess_the_number.py` in the command line.
 
