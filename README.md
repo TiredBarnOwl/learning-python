@@ -23,7 +23,7 @@ To run the program, make sure you have Python 3 installed on your computer. You 
 
 ## Authors
 
-- TiredBarnOwl
+TiredBarnOwl
 
 ## License
 
