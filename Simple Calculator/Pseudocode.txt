@@ -1,0 +1,46 @@
+Example 1
+
+1. Define the functions for addition, subtraction, multiplication, and division.
+2. Prompt the user to enter the first number.
+3. Prompt the user to enter the second number.
+4. Display the menu of available operations (addition, subtraction, multiplication, division).
+5. Prompt the user to choose an operation.
+6. Perform the selected operation on the two numbers using the appropriate function.
+7. Display the result of the operation.
+
+Example 2
+
+1. Prompt the user to enter two numbers
+2. Read in the first number and store it in a variable called "num1"
+3. Read in the second number and store it in a variable called "num2"
+4. Display a menu of available operations: addition, subtraction, multiplication, and division
+5. Prompt the user to select an operation by entering a number from the menu
+6. Read in the user's choice and store it in a variable called "choice"
+7. If the user's choice is 1, call the "add" function with num1 and num2 as arguments and display the result
+8. If the user's choice is 2, call the "subtract" function with num1 and num2 as arguments and display the result
+9. If the user's choice is 3, call the "multiply" function with num1 and num2 as arguments and display the result
+10. If the user's choice is 4, call the "divide" function with num1 and num2 as arguments and display the result
+11. If the user's choice is not a valid option, display an error message and ask the user to try again
+
+Example 3
+
+1. Prompt the user to enter two numbers
+2. Read in the first number and store it in a variable called "num1"
+3. Read in the second number and store it in a variable called "num2"
+4. Prompt the user to select an operation by entering one of the following options: "+", "-", "*", or "/"
+5. Read in the user's choice and store it in a variable called "choice"
+6. If the user's choice is "+", call the "add" function with num1 and num2 as arguments and display the result
+7. If the user's choice is "-", call the "subtract" function with num1 and num2 as arguments and display the result
+8. If the user's choice is "*", call the "multiply" function with num1 and num2 as arguments and display the result
+9. If the user's choice is "/", call the "divide" function with num1 and num2 as arguments and display the result
+10. If the user's choice is not a valid option, display an error message and ask the user to try again.
+
+Detailed Explanation of code
+
+This program is a simple calculator that allows the user to perform basic arithmetic operations such as addition, subtraction, multiplication, and division on two numbers of their choice. The program first defines four functions: add, subtract, multiply, and divide, which take two arguments, perform the corresponding operation, and return the result.
+
+The user is then prompted to enter the first number and the second number, which are stored as variables num1 and num2, respectively. After that, a menu of available operations is displayed, and the user is prompted to select an operation by entering a corresponding number.
+
+Depending on the user's choice, the program then calls the corresponding function to perform the operation on num1 and num2, and displays the result to the user. If the user enters an invalid choice, the program outputs a message indicating that the input is invalid.
+
+The program is implemented in Python and uses basic control structures such as if-else statements and functions to achieve its functionality. The input() function is used to get user input, and float() is used to convert the input into floating-point numbers for arithmetic operation
